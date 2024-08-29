@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "wixapps.net",
+        "wixanswers.com",
+        "wix-code.com",
+        "wix.com",
+        "wixstatic.com",
+        "editorx.com",
+        "wixsite.com",
+        "parastorage.com",
+        "wixmp.com"
+      ]
+    }
+  ],
+  "version": 2
+}

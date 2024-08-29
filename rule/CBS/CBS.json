@@ -1,0 +1,50 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pplusstatic.com",
+        "viacomcbspressexpress.com",
+        "cbsi.video",
+        "cbsaavideo.com",
+        "viacom.com",
+        "cbsnews.com",
+        "cbsimg.net",
+        "amlg.io",
+        "cbsi.com",
+        "cbstelevisioncity.com",
+        "cbsradio.com",
+        "cbs.com",
+        "showtime.com",
+        "paramountplus.com",
+        "cbsinteractive.com",
+        "cbspressexpress.com",
+        "cbsstatic.com",
+        "cbsplaylistserver.aws.syncbak.com",
+        "cbsig.net",
+        "cbsi.live.ott.irdeto.com",
+        "paramount.com",
+        "viacomcbs.com",
+        "mtvnservices.com",
+        "cbsistatic.com",
+        "cbssvideo.com",
+        "pluto.tv",
+        "cbsivideo.com",
+        "viacbs.com",
+        "plutotv.net",
+        "cbscorporation.com",
+        "cbsstore.com",
+        "cbsiam.com",
+        "cbsservice.aws.syncbak.com",
+        "cbssports.com",
+        "cbs"
+      ]
+    },
+    {
+      "process_name": [
+        "com.showtime.standalone",
+        "com.cbs.app"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "akamaiedge.net",
+        "akamai.com",
+        "akamai.net",
+        "akamaistream.net",
+        "akamaized.net",
+        "akamaihd.net"
+      ]
+    }
+  ],
+  "version": 2
+}

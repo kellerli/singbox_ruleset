@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cmbchina.biz",
+        "cmf.biz",
+        "chndoi.com.cn",
+        "cmbimg.com",
+        "cmbt.cn",
+        "cmburl.cn",
+        "cmbuat.com",
+        "cmb-leasing.com",
+        "cnkidoi.cn",
+        "cignacmbamc.com",
+        "cnkidoi.org",
+        "cignacmb-ipmi.com",
+        "chndoi.org",
+        "cmbi.com.hk",
+        "cnkidoi.net",
+        "test-cignacmb.com",
+        "cmbchina.com",
+        "cmbwinglungbank.com",
+        "cmfunds.cn",
+        "bbf.org.cn",
+        "8008205555.com",
+        "cmf.ltd",
+        "8008205555.cn",
+        "wuxizazhi.net.cn",
+        "cnkidoi.com",
+        "wuxizazhi.com.cn",
+        "cmbimg.cn",
+        "chndoi.cn",
+        "cignacmb.com",
+        "cmfchina.com",
+        "wuxizazhi.cn",
+        "bjsbnet.com",
+        "chndoi.net",
+        "wuxizazhi.net",
+        "chndoi.com",
+        "wuxizazhi.com",
+        "cnki.net",
+        "cmbchina.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

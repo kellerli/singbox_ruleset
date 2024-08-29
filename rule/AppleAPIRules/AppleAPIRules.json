@@ -1,0 +1,52 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "apps.apple.com",
+        "se.itunes.apple.com",
+        "beta.music.apple.com",
+        "xp.apple.com",
+        "api.apps.apple.com",
+        "play.itunes.apple.com",
+        "se-edge.itunes.apple.com",
+        "guzzoni.apple.com",
+        "bag.itunes.apple.com",
+        "api-edge.apps.apple.com",
+        "su.itunes.apple.com",
+        "upp.itunes.apple.com"
+      ],
+      "domain_keyword": [
+        "buy.itunes.apple.com"
+      ],
+      "domain_suffix": [
+        "appleid.apple.com",
+        "itunes-apple.com.akadns.net",
+        "service.ess.apple.com",
+        "static.ess.apple.com",
+        "gateway.push.apple.com",
+        "service.gc.apple.com",
+        "swscan.apple.com",
+        "gateway.sandbox.push.apple.com",
+        "init.ess.apple.com",
+        "swquery.apple.com",
+        "gsa.apple.com",
+        "gc.apple.com",
+        "ess.apple.com",
+        "setup.icloud.com"
+      ],
+      "ip_cidr": [
+        "63.92.224.0/19",
+        "205.180.175.0/24",
+        "192.35.50.0/24",
+        "144.178.48.0/20",
+        "139.178.128.0/18",
+        "144.178.36.0/22",
+        "65.199.22.0/23",
+        "198.183.17.0/24",
+        "144.178.0.0/19",
+        "17.0.0.0/8"
+      ]
+    }
+  ],
+  "version": 2
+}
